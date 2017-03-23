@@ -1,0 +1,44 @@
+
+#my-pageheader{
+    background-color: #CCC;
+    padding: 30px;
+    background-image: url("http://img.cecpv.com/show-1-s.png");
+
+}
+#my-pageheader .container{
+  background-color: #C8E5F8;
+  padding: 20px;
+}
+@media (min-width:1200px){
+    .container{
+        width:840px;
+    }
+}
+.brand-groups .col-sm-4{
+  text-align: center;
+}
+.brand-groups .col-sm-4 p{
+  text-align: left;
+}
+.brand-groups .col-sm-8 {
+  padding-top: 15px;
+}
+.col-sm-4 img {
+  max-height: 100px;
+}
+.brand-groups h3 {
+  border-bottom: solid #CCC 1px;
+  padding:15px 0px;
+  color: #47BCCF;
+}
+.brand-boxs > .row {
+  border-bottom: solid #CCC 1px;
+  padding: 15px 0;
+}
+
+.footer{
+  background-color: #333;
+  color:#ccc;
+  padding: 15px;
+}
+
