@@ -8,6 +8,7 @@
 #my-pageheader .container{
   background-color: #C8E5F8;
   padding: 20px;
+    opacity:0.9;
 }
 @media (min-width:1200px){
     .container{
