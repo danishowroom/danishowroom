@@ -36,9 +36,16 @@
   padding: 15px 0;
 }
 
+
 .footer{
   background-color: #333;
   color:#ccc;
   padding: 15px;
+  font-size: 12px;
 }
+
+.padding-twe{
+  padding: 20px;
+}
+      
 
