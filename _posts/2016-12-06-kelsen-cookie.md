@@ -4,7 +4,7 @@ layout: express
 
 ## 产品追踪信息
 
-![cookie](http://img.cecpv.com/trans-2016-10-cookie.png)
+![cookie]({{site.img_host}}/trans-2016-10-cookie.png)
 
 ### 生产日期
 
