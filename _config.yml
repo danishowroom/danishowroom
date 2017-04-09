@@ -17,8 +17,9 @@ title: "Danish showroom 丹麦商品中心"
 email: "zhong@danishshowroom.cn"
 description: "丹麦商品中心 北欧优质商品汇 danish showroom"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://danishshowroom.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.danishshowroom.com" # the base hostname & protocol for your site, e.g. http://example.com
 port: 80
+img_host: "http://img.danishshowroom.cn"
 
 # Build settings
 markdown: kramdown
