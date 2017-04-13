@@ -38,6 +38,7 @@
 }
 
 
+
 .footer{
   background-color: #333;
   color:#ccc;
@@ -49,4 +50,7 @@
   padding: 20px;
 }
       
-
+/* post style */
+.express p span {
+    font-size: 12px;
+}

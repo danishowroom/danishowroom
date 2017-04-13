@@ -3,7 +3,7 @@ layout: express
 ---
 
 
-<a href="#" class="btn btn-lg btn-block disabled alert-success" >Royal Favorites 丹麦黄油曲奇</a>
+*Royal Favorites 丹麦黄油曲奇*
 
 <img class="rounded mx-auto d-block img-thumbnail" alt="" src="{{site.img_host}}/trans-2016-10-cookie.png"/>
 
@@ -28,4 +28,4 @@ layout: express
 
 附件1：<a href="{{site.img_host}}/cookie-cer-1.jpg">原厂地证明</a>
 
-附件2：<a href="{{site.img_host}}/cookie-cer-1.jpg">卫生检疫证明</a>
+附件2：<a href="{{site.img_host}}/cookie-cer-2.jpg">卫生检疫证明</a>
