@@ -5,22 +5,22 @@ layout: express
 
 *Royal Favorites 丹麦黄油曲奇*
 
-<img class="rounded mx-auto d-block img-thumbnail" alt="" src="{{site.img_host}}/trans-2016-10-cookie.png"/>
+<img class="rounded mx-auto d-block img-thumbnail" alt="" src="{{site.img_host}}/trans-2016-10-cookie.png?imageView2/0/format/jpg/q/75|imageslim"/>
+
+* 原产地：丹麦
+* 保质期：18个月
+* 净重：454g
 
 <span class="alert-warning btn btn-lg btn-block">
-出厂日期：2016年 10月 24日
+生产日期：2016年 10月 24日
 </span>
 
 <span class="alert-warning btn btn-lg btn-block">
-德国汉堡出港：2016年 11月 04日
+德国汉堡港：2016年 11月 04日
 </span>
 
 <span class="alert-warning btn btn-lg btn-block">
 入境上海 洋山港：2016年 12月 06日
-</span>
-
-<span class="alert-warning btn btn-lg btn-block">
-宝山丹中仓库：2017年 2月 06日
 </span>
 
 
