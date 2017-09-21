@@ -23,7 +23,7 @@ layout: express
 </span>
 
 
-<a href="https://h5.youzan.com/v2/goods/1bfxgqv2s" class="btn btn-primary btn-lg btn-block">去商城购买</a>
+<a href="http://mp.weixin.qq.com/bizmall/malldetail?id=&pid=pBd4ms9X3eMs-pbk2qIuVUI3WCbs&biz=MzAwNTY2ODg2OQ==&scene=&action=show_detail&showwxpaytitle=1#wechat_redirect" class="btn btn-primary btn-lg btn-block">去商城购买</a>
 
 附件1：<a href="{{site.img_host}}/cookie-cer-1.jpg">原厂地证明</a>
 
