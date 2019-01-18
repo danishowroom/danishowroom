@@ -19,7 +19,7 @@ description: "丹麦商品中心 北欧优质商品汇 danish showroom"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.danishshowroom.com" # the base hostname & protocol for your site, e.g. http://example.com
 port: 80
-img_host: "http://img.danishshowroom.cn"
+img_host: "http://danish.dzunion.cn"
 
 # Build settings
 markdown: kramdown
